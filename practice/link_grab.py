@@ -53,6 +53,18 @@ def linkFind():
             for i in to_add:
                 url += i
         urls.append(url)
-    return urls
+    
+    #joining all urls that are split across '-', this occurs with wayback machine specfically
+    final_urls = []
+    url_joined = False
+    for ind,url in enumerate(urls):
+        if url_joined:
+            url_joined = False
+            continue
+        if "wayback" in url:
+            url = url+urls[ind+1]
+            url_joined = True
+        final_urls.append(url)
+    return final_urls
 
 print linkFind()

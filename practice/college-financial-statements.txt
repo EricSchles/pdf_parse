@@ -1,0 +1,1499 @@
+Financial Cover 2013draft3_Layout 1 11/26/13 3:24 PM Page 1
+
+
+
+
+                                                              PomonaCollege
+
+
+
+
+                                                                               AUDITED
+                 Pomona College                                               FINANCIAL
+                 150 E. Eight Street
+                 Claremont, CA 91711                                      STATEMENTS
+                                                                               FOR THE YEAR ENDED
+                                                                              JUNE 30, 2013
+          POMONA COLLEGE
+           Financial Statements
+
+          June 30, 2013 and 2012
+
+(With Independent Auditors’ Report Thereon)
+                                KPMG LLP
+                                Suite 700
+                                20 Pacifica
+                                Irvine, CA 92618-3391
+
+
+
+
+                                         Independent Auditors’ Report
+
+
+The Board of Trustees
+Pomona College:
+
+Report on the Financial Statements
+We have audited the accompanying financial statements of Pomona College (the College), which comprise
+the statements of financial position as of June 30, 2013 and 2012, and the related statements of activities
+and cash flows for the years then ended and the related notes to the financial statements.
+
+Management’s Responsibility for the Financial Statements
+Management is responsible for the preparation and fair presentation of these financial statements in
+accordance with U.S. generally accepted accounting principles; this includes the design, implementation,
+and maintenance of internal control relevant to the preparation and fair presentation of financial statements
+that are free from material misstatement, whether due to fraud or error.
+
+Auditors’ Responsibility
+Our responsibility is to express an opinion on these financial statements based on our audits. We conducted
+our audits in accordance with auditing standards generally accepted in the United States of America and
+the standards applicable to financial audits contained in Government Auditing Standards, issued by the
+Comptroller General of the United States. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free from material misstatement.
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the
+financial statements. The procedures selected depend on the auditors’ judgment, including the assessment
+of the risks of material misstatement of the financial statements, whether due to fraud or error. In making
+those risk assessments, the auditor considers internal control relevant to the entity’s preparation and fair
+presentation of the financial statements in order to design audit procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity’s internal
+control. Accordingly, we express no such opinion. An audit also includes evaluating the appropriateness of
+accounting policies used and the reasonableness of significant accounting estimates made by management,
+as well as evaluating the overall presentation of the financial statements.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our
+audit opinion.
+
+Opinion
+In our opinion, the financial statements referred to above present fairly, in all material respects, the
+financial position of the College as of June 30, 2013 and 2012, and the changes in its net assets and its cash
+flows for the years then ended in accordance with U.S. generally accepted accounting principles.
+
+
+
+
+                                KPMG LLP is a Delaware limited liability partnership,
+                                the U.S. member firm of KPMG International Cooperative
+                                (“KPMG International”), a Swiss entity.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated November 26,
+2013, on our consideration of the College’s internal control over financial reporting and on our tests of its
+compliance with certain provisions of laws, regulations, contracts, and grant agreements and other matters.
+The purpose of that report is to describe the scope of our testing of internal control over financial reporting
+and compliance and the results of that testing, and not to provide an opinion on internal control over
+financial reporting or on compliance. That report is an integral part of an audit performed in accordance
+with Government Auditing Standards in considering the College’s internal control over financial reporting
+and compliance.
+
+
+
+
+Irvine, California
+November 26, 2013
+
+
+
+
+                                                  2
+                                                POMONA COLLEGE
+                                          Statements of Financial Position
+                                                June 30, 2013 and 2012
+                                                (In thousands of dollars)
+
+
+                                 Assets                                           2013        2012
+Cash and cash equivalents                                                    $      4,127       4,004
+Accounts and other receivables, net of allowance                                    2,352       3,425
+Prepaid expenses and deposits                                                       1,547       1,651
+Short-term investments                                                             94,682      97,538
+Contributions receivable, net                                                      44,540      45,994
+Notes receivable, net of allowance                                                 13,658      14,421
+Long-term investments:
+   Pooled                                                                        1,909,166   1,752,135
+   Separately invested                                                              87,293      83,904
+Property, plant, and equipment, net of accumulated depreciation                    352,387     347,898
+             Total assets                                                    $   2,509,752   2,350,970
+                      Liabilities and Net Assets
+Liabilities:
+   Accounts payable                                                          $     12,422      11,289
+   Accrued payroll and other liabilities                                           14,159      16,178
+   Life income and annuities obligation                                            74,899      68,623
+   CEFA bonds payable                                                             190,974     192,111
+   Government advances for student loans                                            5,021       5,060
+   Funds held in trust for others                                                  11,094      10,701
+             Total liabilities                                                    308,569     303,962
+Net assets:
+  Unrestricted                                                                   1,073,567   1,003,859
+  Temporarily restricted                                                           795,685     719,239
+  Permanently restricted                                                           331,931     323,910
+             Total net assets                                                    2,201,183   2,047,008
+             Total liabilities and net assets                                $   2,509,752   2,350,970
+
+
+See accompanying notes to financial statements.
+
+
+
+
+                                                           3
+                                                       POMONA COLLEGE
+                                                           Statement of Activities
+                                                       Year ended June 30, 2013
+                                                       (In thousands of dollars)
+
+
+                                                                                 Temporarily      Permanently
+                                                             Unrestricted         restricted       restricted     Total
+Revenues, gains, and other support:
+  Student revenues                                     $           86,636                 —               —         86,636
+  Less student financial aid                                      (31,394)                —               —        (31,394)
+              Net student revenues                                 55,242                 —               —         55,242
+  Federal grants and contracts                                      2,755                 —               —          2,755
+  Private gifts and grants                                          8,167              3,970           2,800        14,937
+  Private contracts                                                   901                 —               —            901
+  Endowment income appropriated for operations                     68,638                 —               —         68,638
+  Sales and services of education departments                         621                 —               —            621
+  Other revenues                                                      853                 —               48           901
+                                                                   81,935              3,970           2,848        88,753
+  Net assets released from restriction                             37,706            (37,706)             —               —    
+  Transfers among net asset categories                              1,569             (2,083)            514              —    
+              Total revenues, gains, and other
+                support                                           176,452            (35,819)          3,362       143,995
+Expenses:
+  Instruction                                                      55,539                 —               —         55,539
+  Research                                                          2,587                 —               —          2,587
+  Public service                                                    1,081                 —               —          1,081
+  Academic support                                                 14,430                 —               —         14,430
+  Student services                                                 16,711                 —               —         16,711
+  Institutional support                                            27,356                 —               —         27,356
+  Auxiliary enterprises                                            25,211                 —               —         25,211
+              Total expenses                                      142,915                 —               —        142,915
+              Increase (decrease) in net assets
+                 from operating activities                         33,537            (35,819)          3,362         1,080
+Nonoperating activities:
+  Net realized and unrealized gain on investments                  86,460            110,101             390       196,951
+  Investment income                                                 9,264                254             534        10,052
+  Endowment income appropriated for operations                    (68,638)                —               —        (68,638)
+  Changes in actuarially determined gift liabilities                7,138              2,079           3,738        12,955
+  Comprehensive gain on staff retirement plan                       1,775                 —               —          1,775
+  Annuity and life income funds released                              172               (169)             (3)           —    
+              Increase in net assets from
+                 nonoperating activities                           36,171            112,265           4,659       153,095
+              Increase in net assets                               69,708             76,446           8,021       154,175
+Net assets, beginning of year                                   1,003,859            719,239         323,910      2,047,008
+Net assets, end of year                                $        1,073,567            795,685         331,931      2,201,183
+
+
+See accompanying notes to financial statements.
+
+
+
+
+                                                                     4
+                                                       POMONA COLLEGE
+                                                           Statement of Activities
+                                                       Year ended June 30, 2012
+                                                       (In thousands of dollars)
+
+
+                                                                                 Temporarily      Permanently
+                                                             Unrestricted         restricted       restricted     Total
+Revenues, gains, and other support:
+  Student revenues                                     $           82,537                —                —         82,537
+  Less student financial aid                                      (29,015)               —                —        (29,015)
+              Net student revenues                                 53,522                —                —         53,522
+  Federal grants and contracts                                      2,127                 —               —          2,127
+  Private gifts and grants                                          7,834              3,445           5,338        16,617
+  Private contracts                                                 1,172                 —               —          1,172
+  Endowment income appropriated for operations                     65,022                 —               —         65,022
+  Sales and services of education departments                         487                 —               —            487
+  Other revenues                                                      543                 —               56           599
+                                                                   77,185              3,445           5,394        86,024
+  Net assets released from restriction                             41,331            (41,241)            (90)             —    
+  Transfers among net asset categories                               (143)               143              —               —    
+              Total revenues, gains, and other
+                support                                           171,895            (37,653)          5,304       139,546
+Expenses:
+  Instruction                                                      51,806                —                —         51,806
+  Research                                                          2,696                —                —          2,696
+  Public service                                                    1,056                —                —          1,056
+  Academic support                                                 13,396                —                —         13,396
+  Student services                                                 15,089                —                —         15,089
+  Institutional support                                            26,640                —                —         26,640
+  Auxiliary enterprises                                            23,803                —                —         23,803
+              Total expenses                                      134,486                —                —        134,486
+              Increase (decrease) in net assets
+                 from operating activities                         37,409            (37,653)          5,304         5,060
+Nonoperating activities:
+  Net realized and unrealized gain (loss) on
+     investments                                                   10,607             13,350             (60)       23,897
+  Investment income                                                 8,409                237             729         9,375
+  Endowment income appropriated for operations                    (65,022)                —               —        (65,022)
+  Changes in actuarially determined gift liabilities                  516              5,398           1,142         7,056
+  Comprehensive loss on staff retirement plan                      (1,382)                —               —         (1,382)
+  Annuity and life income funds released                               53                (53)             —             —    
+  Change in restriction of donor contributions                         —              (3,600)          3,600            —    
+              Increase (decrease) in net assets
+                 from nonoperating activities                     (46,819)            15,332           5,411       (26,076)
+              Increase (decrease) in net assets                    (9,410)           (22,321)         10,715       (21,016)
+Net assets, beginning of year                                   1,013,269            741,560         313,195      2,068,024
+Net assets, end of year                                $        1,003,859            719,239         323,910      2,047,008
+
+
+See accompanying notes to financial statements.
+
+
+
+
+                                                                     5
+                                                  POMONA COLLEGE
+                                                  Statements of Cash Flows
+                                           Years ended June 30, 2013 and 2012
+                                                  (In thousands of dollars)
+
+
+                                                                                    2013          2012
+Cash flows from operating and nonoperating activities:
+  Increase (decrease) in net assets                                             $   154,175        (21,016)
+  Adjustments to reconcile change in net assets to net cash used in
+     operating activities:
+        Depreciation                                                                  12,701        14,357
+        Accretion of interest on CEFA bonds                                            2,501         2,386
+        Amortization of bond premium                                                  (1,203)         (633)
+        Contributions restricted for long-term investment                             (4,692)       (6,207)
+        Net realized and unrealized gain on investments                             (196,951)      (23,897)
+        Noncash gifts                                                                   (596)       (3,044)
+        Adjustments of actuarial liabilities                                         (12,955)       (7,056)
+        Change in assets and liabilities:
+           Decrease in accounts receivable                                             1,073         7,722
+           Decrease in contributions receivable                                        1,921         7,174
+           Decrease (increase) in prepaid expenses and deposits                          104          (329)
+           Decrease in accounts payable                                               (1,181)         (465)
+           Decrease in accrued payroll and other liabilities                          (1,741)       (1,762)
+              Net cash used in operating activities                                  (46,844)      (32,770)
+Cash flows from investing activities:
+  Additions to property, plant, and equipment                                        (15,155)      (18,473)
+  Purchase of investments                                                           (542,156)     (580,770)
+  Proceeds from sale of investments                                                  603,267       630,040
+  Disbursements of student loans                                                        (999)       (1,169)
+  Collections of student loans                                                         1,762         2,057
+  Disbursements of trust deed loans                                                   (5,106)       (2,943)
+  Collections of trust deed loans                                                      3,693         2,115
+              Net cash provided by investing activities                               45,306        30,857
+Cash flows from financing activities:
+  Proceeds from contributions restricted for:
+     Investment in endowment                                                           2,230         4,232
+     Investment in life income                                                           867           970
+     Investment in plant                                                               1,595         1,005
+  Proceeds from bonds issuance                                                            —          7,914
+  Government advances for student loans                                                  (39)          (14)
+  Payments on CEFA bonds payable                                                      (2,435)      (10,669)
+  Investment income restricted for long-term investment                                1,938         1,983
+  Payments on life income and annuities obligation                                    (2,495)       (2,570)
+              Net cash provided by financing activities                                1,661         2,851
+              Net change in cash                                                         123          938
+Cash and cash equivalents, beginning of year                                           4,004         3,066
+Cash and cash equivalents, end of year                                          $      4,127         4,004
+Supplementary cash flow information:
+  Cash paid during the year for interest                                        $      6,649         6,565
+
+
+See accompanying notes to financial statements.
+
+                                                             6
+                                             POMONA COLLEGE
+                                           Notes to Financial Statements
+                                             June 30, 2013 and 2012
+
+
+
+(1)   Summary of Significant Accounting Policies
+      (a)   Reporting Organization
+            Founded in 1887, Pomona College (the College) is an independent, coeducational liberal arts college
+            offering instruction in all major fields of the fine arts, humanities, social sciences, and natural
+            sciences. The College has an enrollment of approximately 1,590 students and a student-faculty ratio
+            of eight to one.
+
+            Pomona College is a member of an affiliated group of colleges known as The Claremont Colleges.
+            Each affiliated college is a separate corporate entity governed by a separate board of trustees. The
+            Claremont University Consortium, a member of this group, acts as the coordinating institution,
+            which provides common student and administrative services including certain central facilities
+            utilized by all the colleges. The costs of these services and facilities are shared by the members of the
+            group.
+
+      (b)   Basis of Presentation
+            The accompanying financial statements of the College are prepared on the accrual basis of
+            accounting in accordance with U.S. generally accepted accounting principles (GAAP).
+
+      (c)   Classification of Net Assets
+            The accompanying financial statements present information regarding the College’s financial
+            position and activities according to the following three net asset categories:
+
+            Unrestricted Net Assets
+            Unrestricted net assets represent expendable funds available for operations, which are not otherwise
+            limited by donor restrictions.
+
+            Temporarily Restricted Net Assets
+            Temporarily restricted net assets consist of contributed funds subject to specific donor-imposed
+            restrictions, contingent upon specific performance of a future event or a specific passage of time
+            before the College may spend the funds, and earnings on endowment funds that have not yet been
+            appropriated.
+
+            Permanently Restricted Net Assets
+            Permanently restricted net assets are subject to donor restrictions requiring that the assets be
+            maintained in perpetuity. The investment income generated from these assets is temporarily
+            restricted by law until appropriated by the board of trustees in support of the College’s programs and
+            operations.
+
+      (d)   Cash and Cash Equivalents
+            Cash includes all short term, highly liquid investments with original maturities of three months or
+            less when purchased. Cash and cash equivalents representing assets held in the investment pool are
+            included in long-term investments (see note 6).
+
+                                                        7                                                (Continued)
+                                       POMONA COLLEGE
+                                    Notes to Financial Statements
+                                       June 30, 2013 and 2012
+
+
+
+      The College maintains cash in various financial institutions, which periodically exceeds federally
+      insured limits.
+
+(e)   Investments
+      Investments are reflected at fair value. The College uses net asset value (NAV) as a practical
+      expedient for determining fair value of its financial instruments, in cases where appropriate criteria
+      are met.
+
+(f)   Management of Pooled Investments
+      The College follows an investment policy which anticipates a greater long-term return through
+      investing for capital appreciation and accepts lower current yields from dividends and interest. In
+      order to offset the effect of lower current yields, the board of trustees has adopted a spending policy
+      for pooled investments whereby annually, if the ordinary income from the pooled investments is
+      insufficient to provide the full amount of investment return specified by the adopted spending policy,
+      the balance may be appropriated from cumulative realized gains of the pooled investments.
+
+(g)   Fair Value of Financial Instruments
+      The College did not elect fair value accounting for any asset of liability that is not currently required
+      to be measured at fair value.
+
+      Fair value of the College’s financial instruments is determined using the estimates, methods, and
+      assumptions as set forth below. See note 6 for further information regarding investments and their
+      fair value.
+
+      (i)    Cash equivalents, Accounts and Other Receivables, Accounts Payable, Accrued Payroll, and
+             Other Liabilities
+
+             Fair value approximates book value due to the short maturity of these instruments.
+
+             A reasonable estimate of the fair value of student loans extended under government loan
+             programs has not been made as the loans can only be assigned to the U.S. government.
+
+      (ii)   CEFA Bonds Payable
+
+             Fair value of bonds is estimated with Level 2 inputs, based on the discounted value of
+             contractual cash flows. The discount rate is estimated using the rates currently offered for
+             similar maturities and credit quality. See note 8 for further information regarding CEFA bonds
+             payable and their fair value.
+
+      (iii) Life Income and Annuities Obligation
+
+             The carrying amount of annuity and trust obligations approximates fair value as the
+             instruments are recorded at the estimated net present value of future cash flows. The estimated
+             fair value, however, involves unobservable inputs considered to be Level 3 in the fair value
+             hierarchy.
+
+
+                                                  8                                                (Continued)
+                                       POMONA COLLEGE
+                                    Notes to Financial Statements
+                                       June 30, 2013 and 2012
+
+
+
+(h)   Property, Plant, and Equipment
+      Property, plant, and equipment are stated at cost, representing the purchase price or fair market value
+      at the date of gift, less accumulated depreciation. Depreciation expense is computed using the
+      straight-line method over the estimated useful lives of the assets (generally, 7 years for equipment
+      and land improvements and 40 years for buildings). Construction in progress will be depreciated
+      over the useful lives of the respective assets when they are ready for their intended use. The costs
+      and accumulated depreciation of assets sold or retired are removed from the accounts and the related
+      gains and losses are included in the statement of activities.
+
+(i)   Art Collection
+      The College does not record or capitalize its art collections. The fine art collections of the College
+      are housed in the Pomona College Museum of Art. Among important holdings are the Kress
+      Collection of 15th and 16th century Italian panel paintings; over 5,000 examples of Pre-Columbian
+      to 20th century American Indian art and artifacts; and a large collection of American and European
+      prints, drawings, and photographs. All works in the collection are catalogued, preserved, cared for,
+      and monitored according to professional museum standards, and are subject to a policy that requires
+      proceeds from deaccession to be used exclusively for acquisition of art works.
+
+(j)   Life Income and Annuities Obligation
+      The actuarial liability for life income and annuity contracts and agreements are based on the present
+      value of future payments, discounted at a rate that is commensurate with the risks involved ranging
+      from 2.00% to 7.25% and over estimated lives according to the Annuity 2000 Mortality Table.
+
+(k)   Revenue and Expense Recognition
+      Student tuition and fees are recorded as revenues in the year during which the related academic
+      services are rendered. Student tuition and fees received in advance of services to be rendered are
+      recorded as deferred revenues and are included in accrued payroll and other liabilities on the
+      statement of financial position. Revenues from federal grants and contracts are recorded as allowable
+      expenditures under such agreements are incurred. Contributions, including unconditional promises to
+      give, are recognized as revenue in the period received and are reported as increases in the appropriate
+      class of net assets. Conditional promises to give are not recognized until they become unconditional,
+      that is, when the conditions on which they depend are substantially met. Contributions of assets other
+      than cash are recorded at their estimated fair value. Contributions to be received after one year are
+      discounted at an appropriate discount rate. An allowance for uncollectible contributions is estimated
+      based upon such factors as prior collection history, type of contribution, and nature of fund-raising
+      activity. Expenses are reported as decreases in unrestricted net assets. Gains and losses on
+      investments, investment income, and other revenues are reported as increases or decreases in
+      unrestricted net assets, unless their use is restricted by explicit donor stipulation.
+
+(l)   Allocation of Certain Expenses
+      The statement of activities presents expenses by functional classification. Depreciation expense,
+      operation and maintenance of plant, and interest expense are allocated based on square footage
+
+
+                                                  9                                              (Continued)
+                                        POMONA COLLEGE
+                                     Notes to Financial Statements
+                                        June 30, 2013 and 2012
+
+
+
+      occupancy of college facilities. Included in institutional support expense for the years ended June 30,
+      2013 and 2012 are $7,277,000 and $7,344,000, respectively, of expenses related to fund-raising.
+
+(m)   Expiration of Donor-Imposed Restrictions
+      The expiration of a donor-imposed restriction on a contribution is recognized in the period in which
+      the restriction expires. At that time, the related resources are reclassified to unrestricted net assets. A
+      restriction expires when the stipulated time has elapsed, when the stipulated purpose for which the
+      resource was restricted, has been fulfilled, or both.
+
+      The College follows the policy of reporting as unrestricted support donor-imposed restricted
+      contributions whose restrictions are met in the same period as received. It is the College’s policy to
+      lift the restrictions on contributions of cash or other assets received for the acquisition of long-lived
+      assets when the long-lived assets are placed into service.
+
+(n)   Estates and Trusts
+      The College is named beneficiary of various estates in probate. Unless the ultimate amount available
+      for distribution can be determined before the close of the probate proceedings, the College does not
+      record these amounts until the time of asset distribution. Trusts in which the College is named as
+      irrevocable beneficiary, but is not a trustee, are recorded when the College is notified by the trustee
+      and the ownership percentage and valuation are determined.
+
+(o)   Estimates
+      The preparation of financial statements in conformity with U.S. GAAP requires management to
+      make estimates and assumptions that affect the reported amounts of assets and liabilities and
+      disclosures of contingent assets and liabilities at the date of the financial statements. Estimates also
+      affect the reported amount of revenues, expenses, and other changes in net assets during the
+      reporting period. Actual results could differ from those estimates.
+
+(p)   Income Taxes
+      The College is exempt for federal income tax under Section 501(c)(3) of the Internal Revenue Code
+      and Section 23701d of the California Revenue and Taxation Code and is generally not subject to
+      federal and state income taxes. However, the College is subject to income taxes on any income that
+      is derived from a trade or business regularly carried on, and not in furtherance of the purposes for
+      which it was granted exemption. No income tax provision has been recorded as the net income, if
+      any, from any unrelated trade or business, in the opinion of management, is not material to the basic
+      financial statements taken as a whole.
+
+      The preparation of financial statements in conformity with GAAP prescribes for all entities,
+      including pass-through entities, minimum thresholds for financial statement recognition of an
+      uncertain position taken in filing tax returns (including whether an entity is taxable in a particular
+      jurisdiction) and requires certain expanded tax disclosures. No such uncertain tax positions exist for
+      the College at June 30, 2013 and 2012. The College files income tax returns in the U.S. Federal and
+      the State of California jurisdictions, and is no longer subject to federal and state income tax
+      examinations for tax years before 2008 and 2007, respectively.
+
+                                                   10                                                (Continued)
+                                              POMONA COLLEGE
+                                            Notes to Financial Statements
+                                              June 30, 2013 and 2012
+
+
+
+(2)   Net Student Revenues
+      Student revenues for the years ended June 30, 2013 and 2012, in thousands of dollars, consist of the
+      following:
+                                                                                 2013                2012
+      Tuition and fees                                                      $      67,162              63,766
+      Room and board                                                               19,474              18,771
+                    Gross student revenues                                         86,636              82,537
+      Less:
+        Sponsored financial aid                                                   (14,160)            (13,622)
+        Unsponsored financial aid                                                 (17,234)            (15,393)
+                    Student financial aid                                         (31,394)            (29,015)
+                    Net student revenues                                    $      55,242              53,522
+
+
+      “Sponsored” financial aid consists of funds provided by external entities (including donors of restricted
+      funds), whereas “unsponsored” aid consists of funds provided by the College.
+
+(3)   Accounts and Other Receivables
+      Accounts and other receivables, net of allowance at June 30, 2013 and 2012, in thousands of dollars, are as
+      follows:
+                                                                                 2013                2012
+      Private gifts and grants                                              $         711                 978
+      Investment income                                                               557               1,440
+      Federal grants and contracts                                                    671                 834
+      Sales and other                                                                 456                 222
+                                                                                    2,395               3,474
+      Less allowance for doubtful accounts                                              (43)                (49)
+                    Accounts and other receivables, net of
+                      allowance                                             $       2,352               3,425
+
+
+
+
+                                                        11                                           (Continued)
+                                              POMONA COLLEGE
+                                           Notes to Financial Statements
+                                              June 30, 2013 and 2012
+
+
+
+(4)   Notes Receivable
+      Notes receivable at June 30, 2013 and 2012, in thousands of dollars, are as follows:
+                                                                                    2013                  2012
+      Loans receivable from students                                        $         14,290                14,974
+        Less allowance for doubtful accounts                                            (632)                 (553)
+                     Notes receivable, net of allowance                     $         13,658                14,421
+
+
+      Determination of the fair value of student loans receivable, which are primarily federally sponsored student
+      loans with U.S. government mandated interest rates and repayment terms subject to significant restrictions
+      as to their transfer and disposition, could not be made without incurring excessive costs.
+
+(5)   Contributions Receivable
+      Unconditional promises to give are included in the financial statements as contributions receivable and
+      revenue of the appropriate net asset category. Promises to give are recorded after discounting, at rates
+      ranging from 2.00% to 3.05% to the present value of the future cash flows. Unconditional promises to give
+      received during the years ended June 30, 2013 and 2012 have been discounted at credit-adjusted rates
+      commensurate with the risks associated with the contribution in accordance with Accounting Standards
+      Codification (ASC) Topic 820, Fair Value Measurements and Disclosures. These inputs to the fair value
+      estimate are considered Level 3 in the fair value hierarchy. Book value approximates fair value.
+
+      The College has been named remainderman in certain split-interest agreements. These trust agreements
+      require that the trustee make annual or more frequent payments to the beneficiaries. Upon the death of the
+      beneficiaries or other termination of the trusts, the remaining trust assets will be distributed to the College
+      and other remaindermen as stipulated in the trust agreements. The College has recorded its beneficial
+      interest in these split-interest agreements based on the present value of future cash flows using discount
+      rates ranging from 4.55% to 7.25%. The actuarial assumption used in this calculation is based on the
+      expected return on assets in effect at the date of the valuation. The underlying trust assets are valued at fair
+      value and consist primarily of securities that are traded on the active market.
+
+
+
+
+                                                        12                                                (Continued)
+                                              POMONA COLLEGE
+                                          Notes to Financial Statements
+                                              June 30, 2013 and 2012
+
+
+
+      At June 30, 2013 and 2012, unconditional promises to give, in thousands of dollars, are expected to be
+      received in the following periods:
+                                                                                2013                2012
+      In one year or less                                                 $        8,182               8,425
+      Between one year and five years                                             14,415              14,825
+      More than five years                                                           750               2,395
+                                                                                  23,347              25,645
+      Less discount                                                               (1,522)             (1,949)
+                      Pledged contributions                                       21,825              23,696
+      Split-interest agreements                                                   22,715              22,298
+                      Contributions receivable, net                       $       44,540              45,994
+
+
+      Unconditional promises to give and split-interest agreements at June 30, 2013 and 2012, in thousands of
+      dollars, have the following restrictions:
+                                                                                2013                2012
+      Endowment for programs, activities, and scholarships                $       11,524              11,521
+      Building construction                                                       21,418              21,313
+      Education and general                                                       13,120              15,109
+                                                                                  46,062              47,943
+      Less discount                                                               (1,522)             (1,949)
+                      Contributions receivable, net                       $       44,540              45,994
+
+
+(6)   Investments
+      (a)   Fair Value Measurement
+            The fair value of the College’s financial instruments as of June 30, 2013 and 2012 represents
+            management’s best estimates of the amounts that would be received to sell those assets in an orderly
+            transaction between market participants at that date. Those fair value measurements maximize the
+            use of observable inputs. However, in situations where there are little, if any, observable inputs,
+            management’s own judgments about the assumptions of market participants were used in pricing the
+            asset. Those judgments are developed by management based on the best information available in the
+            circumstances.
+
+            Although the College uses its best judgment in determining the fair value of investments, there are
+            inherent limitations in any methodology. Therefore, the values presented herein are not necessarily
+            indicative of the amount that the College could realize in a current transaction. Future confirming
+            events could affect the estimates of fair value and could be material to the financial statements.
+            These events could also affect the amount realized upon liquidation of the investments.
+                                                       13                                           (Continued)
+                                 POMONA COLLEGE
+                              Notes to Financial Statements
+                                  June 30, 2013 and 2012
+
+
+
+The fair value of investments at June 30, 2013 and 2012, in thousands of dollars, is as follows:
+                                                                        2013                   2012
+Pooled investments:
+  Cash and cash equivalents                                    $         31,431                 37,832
+  U.S. equities                                                         281,379                248,832
+  Non-U.S. equities                                                     193,704                153,126
+  Emerging markets                                                      162,522                113,876
+  Fixed income                                                          183,685                190,764
+  Venture capital                                                       195,894                201,428
+  Private equity                                                        152,617                154,439
+  Absolute return                                                       437,617                385,681
+  Real assets1                                                          270,317                266,157
+               Total long-term investments – pooled                   1,909,166               1,752,135
+Separately invested:
+  Cash and cash equivalents                                                5,530                 7,132
+  U.S. equities                                                           28,180                25,328
+  Non-U.S. equities                                                        3,451                 2,706
+  Fixed income                                                            35,353                34,943
+  Real assets1                                                             4,151                 4,130
+  Other                                                                   10,628                 9,665
+               Total long-term investments – separately
+                 invested                                                 87,293                83,904
+Short-term investments (cash and cash equivalents)                        94,682                97,538
+                                                               $      2,091,141               1,933,577
+1
+    Real assets include marketable hard assets, private real estate/timber, and private oil
+    and gas/energy.
+
+
+The College’s investment income net of related expenses for the years ended June 30, 2013 and 2012
+was as follows, in thousands of dollars:
+                                                                        2013                   2012
+Interest and dividends                                         $          15,016                14,541
+   Less investment expenses                                               (4,964)               (5,166)
+               Investment income                                          10,052                 9,375
+Net realized and unrealized gains on investments                        196,951                 23,897
+               Total investment income, net                    $        207,003                 33,272
+
+
+
+
+                                            14                                                 (Continued)
+                                      POMONA COLLEGE
+                                    Notes to Financial Statements
+                                       June 30, 2013 and 2012
+
+
+
+(b)   Absolute Return Strategies
+      Investments utilizing an absolute return strategy are less liquid than the College’s other investments.
+      These investments typically include certain types of financial instruments, including, among others,
+      futures and forward contracts, options, and securities sold not yet purchased, intended to hedge
+      against changes in the market value of investments. These financial instruments may result in loss
+      due to changes in the market (market risk). The following table summarizes these investments by
+      investment strategy type at June 30, 2013 and 2012, in thousands of dollars.
+                                                                            2013
+                                                      Number
+             Absolute return strategy                 of funds              Cost              Fair value
+      Diversified arbitrage                                      5   $        71,438              141,057
+      Long-short equity                                          8           140,212              206,876
+      Event arbitrage                                            2            26,921               62,519
+      Distressed securities                                      1            15,000               27,165
+                                                              16     $       253,571              437,617
+
+
+                                                                            2012
+                                                      Number
+             Absolute return strategy                 of funds              Cost              Fair value
+      Diversified arbitrage                                      5   $        72,748              119,719
+      Long-short equity                                          7           137,679              186,524
+      Event arbitrage                                            2            26,921               56,867
+      Distressed securities                                      1            15,000               22,571
+                                                              15     $       252,348              385,681
+
+
+(c)   Pending Purchases and Sales
+      At June 30, 2013 and 2012, the College had pending security purchases and sales of approximately
+      $313,000 and $1,297,000 and $577,000 and $403,000, respectively, included in the “other” category
+      of separately invested assets on the previous page.
+
+
+
+
+                                                 15                                              (Continued)
+                                      POMONA COLLEGE
+                                   Notes to Financial Statements
+                                      June 30, 2013 and 2012
+
+
+
+(d)   Pooled Fund
+      Where permitted by gift agreements and/or applicable government regulations, investments are
+      pooled. Pooled investments and allocations of pooled investment income are accounted for on a unit
+      fair value method. The following table summarizes data pertaining to this method for the years ended
+      June 30, 2013 and 2012:
+                                                                            2013                2012
+      Unit fair value at end of year                               $           914.5               843.6
+      Units owned:
+        Unrestricted:
+            Funds functioning as endowment                                  879,337              877,337
+            Designated for annuity and life income funds                     69,080               64,124
+                    Total unrestricted                                      948,417              941,461
+         Temporarily restricted:
+           Restricted for specific purposes                                    6,178               6,068
+           Funds functioning as endowment                                     13,593              13,571
+           Annuities and life income funds                                     8,363               8,299
+                    Total temporarily restricted                              28,134              27,938
+         Permanently restricted:
+           Endowment funds                                                1,083,551            1,079,459
+           Annuities and life income funds                                   29,856               28,089
+                    Total permanently restricted                          1,113,407            1,107,548
+                    Total units                                           2,089,958            2,076,947
+      Weighted average units                                              2,082,304            2,065,430
+      Net pooled investment income per weighted average unit       $               6                    6
+
+
+(e)   Fair Value Hierarchy
+      The College’s fair value hierarchy prioritizes the inputs to valuation techniques used to measure fair
+      value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets for
+      identical assets or liabilities (Level 1 measurements) and the lowest priority to unobservable inputs
+      (Level 3 measurements). The three levels of the fair value hierarchy are as follows:
+
+      Level 1 – Unadjusted quoted prices in active markets that are accessible at the measurement date of
+      identical, unrestricted assets. Assets and liabilities classified as Level 1 generally include listed
+      equities, futures, options, and certain fixed-income securities.
+
+      Level 2 – Quoted prices for markets that are not active or financial instruments for which all
+      significant inputs are observable, either directly or indirectly. Assets and liabilities classified as
+      Level 2 generally include equity swaps, forward contracts, certain fixed-income securities,
+      over-the-counter option contracts, and certain other derivatives.
+
+                                                   16                                           (Continued)
+                                POMONA COLLEGE
+                              Notes to Financial Statements
+                                 June 30, 2013 and 2012
+
+
+
+Level 3 – Pricing inputs are unobservable for the asset and reflect management’s own assumptions to
+determine fair value. Assets classified as Level 3 include private investments that are supported by
+little or no market activity.
+
+Inputs are used in applying the valuation techniques and broadly refer to the assumptions that the
+College uses to make valuation decisions, including assumptions about risk. Inputs may include
+quoted market prices, recent transactions, manager statements, periodicals, newspapers, provisions
+within agreements with investment managers, and other factors. An investment’s level within the fair
+value hierarchy is based on the lowest level of any input that is significant to the fair value
+measurement. The categorization of an investment within the hierarchy is based upon the pricing
+transparency of the investment and does not necessarily correspond to the College’s perceived risk of
+that investment.
+
+The investments in cash and cash equivalents, short-term investments, certain domestic and
+international equities, certain emerging markets, certain real assets and certain domestic fixed
+income are valued based on quoted market prices, and are, therefore, classified within Level 1.
+
+The investments in certain international equities, certain emerging markets, domestic fixed income,
+international fixed income, and certain real properties are valued based on quoted market prices of
+comparable assets, and are, therefore, classified within Level 2.
+
+The investments in private equity, long/short hedge funds, venture capital, absolute return hedge
+funds, certain real assets, certain investment funds focused on domestic and international equities,
+and international fixed incomes are valued utilizing unobservable inputs, and are, therefore,
+classified within Level 3. These investments are presented in the accompanying financial statements
+at fair value. The College’s determination of fair value is based upon the best available information
+provided by the investment manager and may incorporate management assumptions and best
+estimates after considering a variety of internal and external factors. Such value generally represents
+the College’s proportionate share of the partner’s capital of the investment partnerships as reported
+by their general partners. For these investments, the College has determined, through its monitoring
+activities, to rely on the fair market value as determined by the investment managers.
+
+The general partners of the underlying investment partnerships generally value their investments at
+fair value. Investments with no readily available market are generally valued according to the
+mark-to-market method, which attempts to apply a fair value standard by referring to meaningful
+third-party transactions, comparable public market valuations, and/or the income approach.
+Consideration is also given to financial condition and operating results of the investment, the amount
+that the investment partnerships can reasonably expect to realize upon the sale of the securities, and
+any other factors deemed relevant. An investment can be carried at acquisition price (cost) if little
+has changed since the initial investment of the company and is most representative of fair value.
+Investments with a readily available market (listed on a securities exchange or traded in the
+over-the-counter market) are valued at quoted market prices or at an appropriate discount from such
+price if marketability of the securities is restricted.
+
+
+
+
+                                           17                                              (Continued)
+                                          POMONA COLLEGE
+                                       Notes to Financial Statements
+                                          June 30, 2013 and 2012
+
+
+
+           The following table summarizes the valuation of the College’s investments, in thousands of dollars,
+           by the fair value hierarchy levels as of June 30, 2013 and 2012:
+
+                                                                   2013
+                                      Level 1         Level 2             Level 3       Total
+Pooled investments:
+  Cash and cash equivalents      $       31,431               —                 —         31,431
+  U.S. equities                          57,212               —            224,167       281,379
+  Non-U.S. equities                      12,893          148,994            31,817       193,704
+  Emerging markets                       42,466          120,056                —        162,522
+  Fixed income                           44,866           94,265            44,554       183,685
+  Venture capital                            —                —            195,894       195,894
+  Private equity                             —                —            152,617       152,617
+  Absolute return                            —                —            437,617       437,617
+  Real assets                            81,187               —            189,130       270,317
+
+             Total pooled
+               investments             270,055           363,315          1,275,796    1,909,166
+Other invested assets:
+  Cash and cash equivalents            100,212                —                  —       100,212
+  U.S. equities                         27,776               398                  6       28,180
+  Non-U.S. equities                      3,451                —                  —         3,451
+  Fixed income                          14,708            20,645                 —        35,353
+  Real assets                               —                 —               4,151        4,151
+  Other                                     58            10,566                  4       10,628
+
+             Total other
+               invested assets         146,205            31,609              4,161      181,975
+             Total               $     416,260           394,924          1,279,957    2,091,141
+
+
+
+
+                                                    18                                             (Continued)
+                                         POMONA COLLEGE
+                                      Notes to Financial Statements
+                                         June 30, 2013 and 2012
+
+
+
+                                                                 2012
+                                     Level 1        Level 2             Level 3     Total
+Pooled investments:
+  Cash and cash equivalents      $     37,832               —                 —       37,832
+  U.S. equities                        58,670               —            190,162     248,832
+  Non-U.S. equities                    13,098          139,991                37     153,126
+  Emerging markets                     37,435           76,441                —      113,876
+  Fixed income                         46,030           99,155            45,579     190,764
+  Venture capital                          —                —            201,428     201,428
+  Private equity                           —                —            154,439     154,439
+  Absolute return                          —                —            385,681     385,681
+  Real assets                          44,262           39,700           182,195     266,157
+
+             Total pooled
+               investments            237,327          355,287          1,159,521   1,752,135
+
+Other invested assets:
+  Cash and cash equivalents           104,670               —                  —     104,670
+  U.S. equities                        25,322               —                   6     25,328
+  Non-U.S. equities                     2,706               —                  —       2,706
+  Fixed income                         13,005           21,938                 —      34,943
+  Real assets                              —                —               4,130      4,130
+  Other                                    53            9,608                  4      9,665
+
+             Total other
+               invested assets        145,756           31,546              4,140    181,442
+             Total               $    383,083          386,833          1,163,661   1,933,577
+
+
+
+
+                                                  19                                            (Continued)
+                                                                 POMONA COLLEGE
+                                                            Notes to Financial Statements
+                                                                 June 30, 2013 and 2012
+
+
+
+The following is a reconciliation of Level 3 assets for which unobservable inputs were used to determine fair value. The table represents
+the activity of Level 3 securities held at the beginning and end of the period, in thousands of dollars:
+                                                                                                               June 30, 2013
+                                                                  Beginning          Realized          Changes in                                                Ending
+                                                                  balance at          gains            unrealized                                              balance at
+                                                                 June 30, 2012       (losses)         gains (losses)     Purchases            Sales           June 30, 2013
+
+Pooled investments:
+  U.S. equities                                              $       190,162              1,311             37,694                 —            (5,000)           224,167
+  Non-U.S. equities                                                       37                 —               1,780             30,000               —              31,817
+  Fixed income                                                        45,579                 —              (1,025)                —                —              44,554
+  Venture capital                                                    201,428             22,665             (7,749)            16,781          (37,231)           195,894
+  Private equity                                                     154,439             14,849              9,421             15,714          (41,806)           152,617
+  Absolute return                                                    385,681              7,179             50,713             12,000          (17,956)           437,617
+  Real assets                                                        182,195              5,661              7,862             32,068          (38,656)           189,130
+
+               Total pooled investments                            1,159,521             51,665             98,696            106,563         (140,649)         1,275,796
+
+Other invested assets:
+  U.S. equities                                                             6                 —                  —                 —                —                   6
+  Real assets                                                           4,130                (34)                86               390             (421)             4,151
+  Other                                                                     4                 —                  —                 —                —                   4
+
+               Total other invested assets                              4,140                (34)                86               390             (421)             4,161
+
+               Total Level 3 assets                          $     1,163,661             51,631             98,782            106,953         (141,070)         1,279,957
+
+Change in unrealized gains for the period included in the increase in net assets for assets still held at the reporting date (in thousands)               $        98,782
+
+
+
+
+                                                                                20                                                                            (Continued)
+                                                                 POMONA COLLEGE
+                                                            Notes to Financial Statements
+                                                                 June 30, 2013 and 2012
+
+
+
+                                                                                                                June 30, 2012
+                                                                  Beginning          Realized          Changes in                                                    Ending
+                                                                  balance at          gains            unrealized                                                  balance at
+                                                                 June 30, 2011       (losses)         gains (losses)     Purchases               Sales            June 30, 2012
+
+Pooled investments:
+  U.S. equities                                              $       151,622                 —              18,540             20,000                    —            190,162
+  Non-U.S. equities                                                       39                 —                  (2)                —                     —                 37
+  Fixed income                                                        28,180                 —               2,399             15,000                                  45,579
+  Venture capital                                                    174,214              7,252             18,241             20,785             (19,064)            201,428
+  Private equity                                                     165,358             15,973             (8,945)            19,737             (37,684)            154,439
+  Absolute return                                                    380,274                (20)             6,176                 44                (793)            385,681
+  Real assets                                                        174,677             10,562             (4,762)            29,700             (27,982)            182,195
+
+               Total pooled investments                            1,074,364             33,767             31,647           105,266              (85,523)           1,159,521
+
+Other invested assets:
+  U.S. equities                                                            4                  —                   2                —                   —                    6
+  Real assets                                                          3,662                 (71)                20               658                (139)              4,130
+  Other                                                                    4                  —                  —                 —                   —                    4
+
+               Total other invested assets                             3,670                 (71)                22               658                (139)              4,140
+
+               Total Level 3 assets                          $     1,078,034             33,696             31,669            105,924             (85,662)           1,163,661
+
+Change in unrealized gains (losses) for the period included in the increase (decrease) in net assets for assets still held at the reporting date (in thousands)        31,669
+
+
+
+
+                                                                               21                                                                                 (Continued)
+                                                                                        POMONA COLLEGE
+                                                                                    Notes to Financial Statements
+                                                                                        June 30, 2013 and 2012
+
+
+
+The College uses the NAV to determine the fair value of all the underlying investments, which (a) do not have a readily determinable fair
+value and (b) prepare their financial statements consistent with the measurement principles of an investment company or have the
+attributes of an investment company. Per Accounting Standards Update (ASU) 2009-12, Fair Value Measurements and Disclosures
+(Topic 820): Investments in Certain Entities That Calculate Net Asset per Share (or Its Equivalent), the following table lists investments
+in other investment companies (in partnership format) by major category, in millions of dollars:
+                                                                                                                                Amount of       Timing to                                                         Redemption
+                                                                               NAV          Number of        Remaining          unfunded       draw down         Redemption              Redemption           restrictions in place
+                                                                                                                                          2
+                                                  Strategy                   in funds         funds             life          commitments     commitments          terms                 restrictions             at year-end
+Venture/growth equity                Venture capital and growth
+                                                                                                                                                                            1                      1                        1
+                                       equity fund primarily in the U.S$           195.9           79        1–15 years $            56.4     up to 6 years           N/A                    N/A                      N/A
+Private equity/distressed            Buyout and distressed funds in
+                                                                                                                                                                            1                      1                        1
+                                       U.S. and international                      152.6           46        1–15 years              56.9     up to 6 years           N/A                    N/A                      N/A
+Private real estate/timber           Real estate and timberland
+                                       funds primarily in the U.S. and
+                                                                                                                                                                            1                      1                        1
+                                       developed Europe                             84.0           22        1–15 years              36.3     up to 6 years           N/A                    N/A                      N/A
+Private oil and gas/energy           Funds engaged in development
+                                       of energy and other natural
+                                                                                                                                                                            1                      1                        1
+                                       resources                                   105.1           23        1–15 years              50.9     up to 6 years           N/A                    N/A                      N/A
+               Total private
+                 investments                                                       537.6          170                               200.5
+
+Absolute return and
+  long/short equity                Long/short and diversified
+                                     arbitrage funds investing
+                                     globally                                      437.6           15           N/A                    —          N/A         Ranges between        1 fund has six months   3 funds have 25%
+                                                                                                                                                                quarterly with         remaining of a          annual gates in place;
+                                                                                                                                                                30 days’ notice,      twelve month             1 fund has 15% gate in
+                                                                                                                                                                to annually with       lock-up period          place; 1 fund has a
+                                                                                                                                                                180 days’ notice.                             10% gate in place
+Commingled funds                   Long-only equity funds, emerging
+                                     markets, fixed income, energy,
+                                     and other natural resources
+                                     with various regional mandates.               569.6           12           N/A                    —          N/A         Ranges between        2 funds have rolling    1 fund has a 50% annual
+                                                                                                                                                                monthly with           three-year lock-up      gate; 1 fund has a 25%
+                                                                                                                                                                30 days’ notice, to   periods                 annual gate; 1 fund has
+                                                                                                                                                                tri-annually with                              a 20% annual gate
+                                                                                                                                                                90 days’ notice.
+                                          Total                         $         1,544.8         197                     $         200.5
+1
+    These funds are in private equity structure with no ability to be redeemed.
+2
+    Of these commitments, approximately $72,000,000 is due within one year.
+
+
+
+
+                                                                                                        22                                                                                                    (Continued)
+                                            POMONA COLLEGE
+                                         Notes to Financial Statements
+                                            June 30, 2013 and 2012
+
+
+
+(7)   Property, Plant, and Equipment
+      Property, plant, and equipment at June 30, 2013 and 2012, in thousands of dollars, are as follows:
+                                                                                  2013                2012
+      Land                                                               $          6,788                6,598
+      Land improvements                                                            21,741               19,187
+      Buildings                                                                   437,429              430,860
+      Equipment                                                                    43,905               42,784
+      Construction in progress                                                     16,508                9,751
+                                                                                  526,371              509,180
+      Less accumulated depreciation                                              (173,984)            (161,282)
+                     Property, plant, and equipment, net of
+                       accumulated depreciation                          $        352,387              347,898
+
+
+      Outstanding commitments for construction contracts amounted to approximately $22,060,000 and
+      $1,449,000 as of June 30, 2013 and 2012, respectively.
+
+(8)   CEFA Bonds Payable
+      Bonds payable, in thousands of dollars, issued through the California Educational Facilities Authority
+      (CEFA), and associated interest rates and maturities at June 30, 2013 and 2012 are as follows:
+                                                                                2013
+                                                              Interest         Maturity             Principal
+                                                               rates            dates                amount
+      Series 2011A                                             4.0%           2014-2017       $             5,035
+      Series 2009A                                             5.0%           2019, 2024                   62,290
+      Series 2008A                                          4.4% –5.0%           2018                      62,890
+      Series 2005A                                          4.4% –5.2%        2018–2045                    54,271
+                                                                                                       184,486
+      Plus unamortized premium                                                                              6,488
+                     CEFA bonds payable                                                       $        190,974
+
+
+
+
+                                                       23                                             (Continued)
+                                             POMONA COLLEGE
+                                          Notes to Financial Statements
+                                             June 30, 2013 and 2012
+
+
+
+                                                                                  2012
+                                                              Interest           Maturity             Principal
+                                                               rates              dates                amount
+      Series 2011A                                              4.0%            2013 –2017      $            6,180
+      Series 2009A                                              5.0%            2019, 2024                  62,290
+      Series 2008A                                           4.4% –5.0%            2018                     62,148
+      Series 2005A                                           4.4% –5.2%         2018 –2045                  52,512
+      Series 1999A                                              4.4%               2013                      1,290
+                                                                                                           184,420
+      Plus unamortized premium                                                                               7,691
+                     CEFA bonds payable                                                         $          192,111
+
+
+                           Schedule of maturities:
+                             Years ending:
+                                2014                                       $          1,185
+                                2015                                                  1,230
+                                2016                                                  1,285
+                                2017                                                  1,335
+                                2018                                                 65,422
+                                2019-2045                                           114,029
+                                                                           $        184,486
+
+
+      The CEFA agreements contain covenants relating to maintenance of the College, insurance, and other
+      general items.
+
+      In July 2011, the College completed a new municipal bond financing through the CEFA 2011A
+      Series bonds in the par amount of $7,310,000. Proceeds from the bonds were used in the defeasance of the
+      CEFA 2001 Series bonds in the amount of $7,700,000.
+
+      At June 30, 2013 and 2012, the fair value of the College’s CEFA bonds payable was approximately
+      $201,388,000 and $213,418,000, respectively. Fair value was estimated based upon dealer quotes for
+      similar instruments.
+
+(9)   Funds Held in Trust for Others
+      Funds held in trust for others at June 30, 2013 and 2012, in thousands of dollars, are as follows:
+                                                                                   2013                    2012
+      Remaindermen trusts payable                                          $         11,094                 10,701
+                     Total funds held for others                           $         11,094                 10,701
+
+
+
+                                                        24                                                 (Continued)
+                                            POMONA COLLEGE
+                                         Notes to Financial Statements
+                                            June 30, 2013 and 2012
+
+
+
+(10) Net Assets
+     At June 30, 2013 and 2012, net assets consist of the following, in thousands of dollars:
+                                                                                  2013               2012
+     Unrestricted:
+       Available for operations                                          $             95                  95
+       For plant and other designated purposes                                     85,276              85,772
+       Designated for annuity and life income funds                                29,011              23,883
+       Funds functioning as endowment                                             803,067             738,322
+       Invested in property, plant, and equipment, net of related
+          debt                                                                    156,118             155,787
+                    Total unrestricted                                          1,073,567           1,003,859
+     Temporarily restricted:
+       Restricted for specific purposes                                            20,115              20,590
+       Annuity and life income funds                                               41,822              39,813
+       Donor-restricted endowment funds                                             1,016                 996
+       Accumulated unappropriated gains on endowment                              732,732             657,840
+                    Total temporarily restricted                                  795,685             719,239
+     Permanently restricted:
+       Loan funds                                                                  16,077              16,253
+       Annuity and life income funds                                               29,228              25,175
+       Endowment funds                                                            286,626             282,482
+                    Total permanently restricted                                  331,931             323,910
+                    Total net assets                                     $      2,201,183           2,047,008
+
+
+(11) Retirement Plans
+     The College participates with other members of The Claremont Colleges in two retirement plans
+     administered by the Claremont University Consortium – a defined-contribution plan and a defined-benefit
+     plan. These plans cover all of the College’s eligible employees.
+
+     The defined-contribution plan provides retirement benefits for all employees through Teachers Insurance
+     and Annuity Association and the College Retirement Equities Fund (TIAA-CREF). Under this plan,
+     College contributions are used to purchase fixed and/or variable annuities offered by TIAA-CREF. Vesting
+     provisions are full and immediate. Benefits commence upon retirement and preretirement survivor death
+     benefits are provided. In conjunction with this plan, employees are able to contribute a portion of their
+     salary into a tax-deferred annuity account and invest such assets in mutual funds offered by TIAA-CREF,
+     Fidelity Investments Institutional Services Company, Inc., or The Vanguard Group.
+
+     Prior to July 1, 2005, certain retirement eligible employees participated in a defined-benefit plan, wherein
+     the benefits were based on years of service, compensation, and the amount of employee contributions, if
+     any. On June 30, 2005, the plan was frozen and all participants were immediately eligible to become
+
+                                                      25                                             (Continued)
+                                           POMONA COLLEGE
+                                        Notes to Financial Statements
+                                           June 30, 2013 and 2012
+
+
+
+    participants in the defined-contribution plan. The defined-benefit plan continues to be funded in
+    accordance with the Employment Retirement Income Security Act of 1974 (ERISA) and for the years
+    ended June 30, 2013 and 2012, the plan has met the minimum funding requirements. Plan assets are
+    invested in a diversified group of equity and fixed-income securities, in an insurance company’s separate
+    and general accounts. At June 30, 2013 and 2012, the College’s allocation of net pension costs was
+    approximately $340,000 and $293,000, respectively. Also at June 30, 2013 and 2012, the College had a
+    reserve for future funding payments of approximately $2,191,000 and $3,966,000 that was included in
+    accrued payroll and other liabilities on the statement of financial position and approximately $2,923,000
+    and $2,352,000, respectively, related to contributions made by employees to the College’s 457(b) Plan that
+    were included in separately invested assets and accrued payroll and other liabilities on the statement of
+    financial position.
+
+    For the years ended June 30, 2013 and 2012, the College’s contributions to these plans amounted to
+    approximately $5,980,000 and $5,828,000. Also included in the statement of activities for the years ended
+    June 30, 2013 and 2012 is a comprehensive gain of $1,775,000 and a comprehensive loss of $1,382,000,
+    respectively, relating to the staff retirement plan.
+
+(12) Workers’ Compensation
+    The College participates with other members of The Claremont Colleges in collective insurance
+    agreements including self-insurance for workers’ compensation. At June 30, 2013 and 2012, the College
+    had approximately $480,000 and $435,000, respectively, in accounts payable to provide for payment of
+    claims pending. Management believes that the ultimate disposition of these or other claims would not
+    result in any material adjustments to the financial statements.
+
+(13) Endowment
+    The net assets of the College include permanent endowment and funds functioning as endowment.
+    Permanent endowments are subject to the restrictions of gift instruments requiring in perpetuity that the
+    principal be invested and the income only be utilized as provided for under the California Uniform Prudent
+    Management of Institutional Funds Act (UPMIFA). While funds functioning as endowment have been
+    established by the board of trustees to function as endowment, any portion of such funds may be expended.
+
+    The College’s endowment consists of approximately 1,800 individual funds established for a variety of
+    purposes including both donor-restricted endowment funds and funds designated by the board of trustees to
+    function as endowments. Net assets associated with endowment funds, including funds designated by the
+    board of trustees to function as endowments, are classified and reported based on the existence or absence
+    of donor-imposed restrictions.
+
+    (a)   Interpretation of Relevant Law
+          The board of trustees of the College has interpreted the UPMIFA as permitting the preservation of
+          the original gift as of the gift date of the donor-restricted endowment funds absent explicit donor
+          stipulations to the contrary. As a result of this interpretation, the College classifies as permanently
+          restricted net assets (a) the original value of gifts donated to the permanent endowments; (b) the
+          original value of subsequent gifts to the permanent endowment; and (c) accumulations to the
+
+
+                                                     26                                              (Continued)
+                                       POMONA COLLEGE
+                                    Notes to Financial Statements
+                                        June 30, 2013 and 2012
+
+
+
+      permanent endowment made in accordance with the direction of the applicable donor gift instrument
+      at the time the accumulation is added to the fund.
+
+      The remaining portion of the donor-restricted endowment fund that is not classified in permanently
+      restricted net assets is classified as temporarily restricted net assets until those amounts are
+      appropriated for expenditure by the College in a manner consistent with the standard of prudence
+      prescribed by the Act. In accordance with the Act, the College considers the following factors in
+      making a determination to appropriate or accumulate donor-restricted endowment funds:
+
+      1.    The duration and preservation of the fund
+
+      2.    The purposes of the College and the donor-restricted endowment fund
+
+      3.    General economic conditions
+
+      4.    The possible effect of inflation and deflation
+
+      5.    The expected total return from income and the appreciation of investments
+
+      6.    Other resources of the College
+
+      7.    The investment policies of the College
+
+(b)   Return Objective and Risk Parameters
+      The College has adopted investment and spending policies for endowment assets that attempt to
+      provide a predictable stream of funding to programs supported by its endowment while seeking to
+      maintain the purchasing power of the endowment assets. Endowment assets include those assets of
+      donor-restricted funds that the College must hold in perpetuity as well as board-designated funds.
+      Under this policy, as approved by the board of trustees, the endowment assets are invested in a
+      manner that is intended to produce results that exceed the price and yield results of a custom
+      benchmark that reflects the College’s current asset allocation targets and a simple benchmark
+      composed of 85% of the S&P 500 Index and 15% of the Barclays Capital Government/Credit Bond
+      Index, while assuming a moderate level of investment risk.
+
+      The College expects its endowment funds to attain, over time and within acceptable risk levels, an
+      average annual real rate of return of approximately 6.00%, net of all investment management and
+      related fees and without regard to whether the return is in the form of income or capital gains. Actual
+      returns in any given year may vary from this amount.
+
+(c)   Strategies Employed for Achieving Objectives
+      To satisfy its long-term rate-of-return objectives, the College relies on a total return strategy in which
+      investment returns are achieved through both capital appreciation (realized and unrealized) and
+      current yield (interest and dividends). The College targets a diversified asset allocation that places a
+      greater emphasis on equity-based investments to achieve its long-term return objectives within
+      prudent risk constraints.
+
+
+                                                  27                                                (Continued)
+                                         POMONA COLLEGE
+                                     Notes to Financial Statements
+                                         June 30, 2013 and 2012
+
+
+
+(d)   Spending Policy and How the Investment Objectives Relate to Spending Policy
+      The College has a policy of appropriating for distribution each year 4.50% to 5.50% of its
+      endowment funds’ average fair value over the prior 12 quarters through June 30 one year prior to the
+      beginning of the fiscal year in which the distribution is planned. In establishing this policy, the
+      College considered the long-term expected return on its endowment. Accordingly, over the long
+      term, the College expects the current spending policy to allow its endowment to maintain its
+      purchasing power by growing at a rate at least equal to planned payouts. Additional real growth will
+      be provided through new gifts and any excess investment return. In May 2010, the board of trustees
+      approved a two-year deviation from the College’s endowment payout policy to permit the 12-quarter
+      average spending rate to fall below 4.50% and to permit the growth in spending per unit to fall below
+      4.00%. The temporary reduction in endowment payout was a response to the impact of the 2008
+      financial crisis on the value of the endowment. For the years ended June 30, 2013 and 2012, the
+      board of trustees authorized distributions of $68,638,000 and $65,022,000, respectively, based on an
+      approved spending rate of 4.50% and 4.07%, for current operations from the realized investment
+      gains of pooled investments.
+
+      Endowment net assets consist of the following at June 30, 2013 and 2012, in thousands of dollars:
+                                                                            2013
+                                                                Temporarily     Permanently
+                                                 Unrestricted    restricted      restricted      Total
+      Donor-restricted endowment funds       $          (275)          1,016       286,626        287,367
+      Board-designated endowment funds               184,885              —             —         184,885
+      Accumulated unappropriated gains               618,457         732,732            —       1,351,189
+
+                   Total endowment
+                     net assets              $       803,067         733,748       286,626      1,823,441
+
+
+                                                                            2012
+                                                                Temporarily     Permanently
+                                                 Unrestricted    restricted      restricted      Total
+      Donor-restricted endowment funds       $        (1,881)            996       282,482        281,597
+      Board-designated endowment funds               183,053              —             —         183,053
+      Accumulated unappropriated gains               557,150         657,840            —       1,214,990
+
+                   Total endowment
+                     net assets              $       738,322         658,836       282,482      1,679,640
+
+
+
+
+                                                   28                                          (Continued)
+                                    POMONA COLLEGE
+                                Notes to Financial Statements
+                                    June 30, 2013 and 2012
+
+
+
+Changes in endowment net assets for the year ended June 30, 2013 are as follows, in thousands of
+dollars:
+
+                                                         Temporarily      Permanently
+                                          Unrestricted    restricted       restricted    Total
+Endowment net assets,
+  June 30, 2012                       $       738,322        658,836         282,482    1,679,640
+Pooled investment returns:
+  Earned income                                 9,546               —             —         9,546
+  Net realized and unrealized
+     gains on investments
+     during the year                           86,797        110,101              —      196,898
+
+              Total pooled
+                investment
+                returns                        96,343        110,101              —      206,444
+
+Distributions per spending policy             (68,638)              —             —       (68,638)
+              Net pooled
+                investment
+                returns
+                appropriated
+                to pool                        27,705        110,101              —      137,806
+
+Other changes in endowment:
+  Gifts                                            617             15          2,232        2,864
+  Releases, changes, losses,
+     and transfers per donor
+     restrictions                               2,670           (1,606)         1,491       2,555
+  Endowment income reinvested                     150                5            421         576
+  Appropriation of endowment
+     assets for expenditure                    33,603        (33,603)             —              —
+              Total other changes
+                in endowment                   37,040        (35,189)          4,144        5,995
+
+              Total changes in
+                endowed equity                 64,745           74,912         4,144     143,801
+
+Endowment net assets,
+  June 30, 2013                       $       803,067        733,748         286,626    1,823,441
+
+
+
+
+                                              29                                        (Continued)
+                                    POMONA COLLEGE
+                                Notes to Financial Statements
+                                    June 30, 2013 and 2012
+
+
+
+Changes in endowment net assets for the year ended June 30, 2012 are as follows, in thousands of
+dollars:
+
+                                                         Temporarily     Permanently
+                                          Unrestricted    restricted      restricted    Total
+Endowment net assets,
+  June 30, 2011                       $       753,676        675,389        271,389    1,700,454
+Pooled investment returns:
+  Earned income                                 8,903              —             —         8,903
+  Net realized and unrealized
+     gains on investments
+     during the year                           10,662           13,350           —        24,012
+
+              Total pooled
+                investment
+                returns                        19,565           13,350           —        32,915
+
+Distributions per spending policy             (65,022)             —             —       (65,022)
+              Net pooled
+                investment
+                returns
+                appropriated
+                to pool                       (45,457)          13,350           —       (32,107)
+
+Other changes in endowment:
+  Gifts                                            21              30         5,191        5,242
+  Releases, changes, losses,
+     and transfers per donor
+     restrictions                              (1,139)           1,135        5,261        5,257
+  Endowment income reinvested                     149                4          641          794
+  Appropriation of endowment
+     assets for expenditure                    31,072        (31,072)            —              —
+              Total other changes
+                in endowment                   30,103        (29,903)        11,093       11,293
+
+              Total changes in
+                endowed equity                (15,354)       (16,553)        11,093      (20,814)
+
+Endowment net assets,
+  June 30, 2012                       $       738,322        658,836        282,482    1,679,640
+
+
+
+
+                                              30                                       (Continued)
+                                           POMONA COLLEGE
+                                        Notes to Financial Statements
+                                           June 30, 2013 and 2012
+
+
+
+     (e)   Funds with Deficits
+           From time to time, the fair value of assets associated with individual donor-restricted endowment
+           funds may fall below the level that the donor or UPMIFA requires the College to retain as a fund of
+           perpetual duration. Deficits of this nature that are reported in unrestricted net assets were $275,000
+           and $1,881,000 as of June 30, 2013 and 2012, respectively. These deficits resulted from unfavorable
+           market fluctuations that occurred shortly after the investment of new permanently restricted
+           contributions and continued appropriation for certain programs that was deemed prudent by the
+           board of trustees. Subsequent gains that restore the fair value of the assets of the endowment fund to
+           the required level will be classified as an increase in unrestricted net assets.
+
+(14) Affiliated Institutions
+     The amounts paid by the College to Claremont University Consortium for the common student and
+     administrative services and the use of facilities for the years ended June 30, 2013 and 2012 totaled
+     $6,648,000 and $6,585,000, respectively.
+
+(15) Commitments and Contingencies
+     (a)   Line of Credit
+           At June 30, 2013 and 2012, the College had a $50,000,000 line of credit, which expires on
+           February 28, 2014. Any borrowings on the line would bear interest at a rate set by the bank (2.25%
+           per annum at June 30, 2013 and 2012) and is subject to change from time to time. There were no
+           borrowings outstanding on the line at June 30, 2013 and 2012.
+
+     (b)   Federal Funding
+           Certain federal grants that the College administers and for which it receives reimbursements are
+           subject to audit and final acceptance by federal granting agencies. The amount of expenditures that
+           may be disallowed by the grantor, if any, cannot be determined at this time. The College expects that
+           such amounts, if any, would not have a significant impact on the financial position of the College.
+
+(16) Subsequent Events
+     On November 7, 2013, the College executed a $44,762,000 commitment with a Construction Company for
+     the construction of a new laboratory and renovation of a Science Hall. The project is scheduled to be
+     completed in the Fall of 2015. Subsequent events have been evaluated through November 26, 2013, which
+     is the date the financial statements were issued. There are no additional subsequent events that require
+     disclosure.
+
+
+
+
+                                                      31
+Financial Cover 2013draft3_Layout 1 11/26/13 3:24 PM Page 1
+
+
+
+
+                                                              PomonaCollege
+
+
+
+
+                                                                               AUDITED
+                 Pomona College                                               FINANCIAL
+                 150 E. Eight Street
+                 Claremont, CA 91711                                      STATEMENTS
+                                                                               FOR THE YEAR ENDED
+                                                                              JUNE 30, 2013
+
