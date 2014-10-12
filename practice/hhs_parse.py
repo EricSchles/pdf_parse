@@ -31,14 +31,24 @@ for entity in possible_links:
     start = start.split(" ")
     start = [elem for elem in start if "http" in elem][0]
     to_add = []
+    pdf_file = False
+    
     for sentence in entity[1:]:
         sentence = sentence.split(" ")
-        for ind,word in enumerate(sentence):
-            if "/" in word and not("http" in word):
+        counter = 0
+        for word in sentence:
+            if ("/" in word or "%" in word or "&" in word) and not("http" in word):
                 to_add.append(word)
-                if ".pdf" in word: stop = ind
+                counter += 1
+                if ".pdf" in word: 
+                    stop = counter
+                    pdf_file = True
 
-    url = start 
-    for i in to_add[:stop+1]:
-        url += i
+    url = start
+    if pdf_file:
+        for i in to_add[:stop]:
+            url += i
+    else:
+        for i in to_add:
+            url += i
     print url
